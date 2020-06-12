@@ -4,8 +4,8 @@
 Clone and run `npm install`
 
 
-### Video Tutorial
+### Full Video Tutorial
 https://youtu.be/bgPRDiJhWa8
 
-### How to setup MongoDB Atlas Cloud 
+### MongoDB Atlas Cloud Tutorial
 [How to setup MongoDB Atlas Cloud](https://sunilk.work/build-nodejs-mvp-using-free-mongodb-atlas-cluster-for-aws-google-cloud-platform-and-microsoft-azure/)

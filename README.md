@@ -3,6 +3,8 @@
 
 Clone and run `npm install`
 
+### IMP: Never share or publish private.key to the rest of the world
+
 
 ### Full Video Tutorial
 https://youtu.be/bgPRDiJhWa8

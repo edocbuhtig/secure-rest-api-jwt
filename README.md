@@ -3,7 +3,7 @@
 
 Clone and run `npm install`
 
-### IMP: Never share or publish private.key to the rest of the world
+### IMP: Never share or publish private.key to rest of the world
 
 ### Full Web Tutorial 
 [Secure REST API Using JWT](https://sunilk.work/secure-rest-api-using-jwt/)

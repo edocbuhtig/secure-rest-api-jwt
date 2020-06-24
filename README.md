@@ -6,10 +6,10 @@ Clone and run `npm install`
 ### IMP: Never share or publish private.key to rest of the world
 
 ### Full Web Tutorial 
-[Secure REST API Using JWT](https://sunilk.work/secure-rest-api-using-jwt/)
+[Secure REST API Using JWT](https://www.fullstackblog.in/tutorials/rest-api-tutorial/)
 
 ### Full Video Tutorial
 https://youtu.be/bgPRDiJhWa8
 
 ### MongoDB Atlas Cloud Tutorial
-[Build NodeJS MVP using free MongoDB Atlas cluster for AWS, Google Cloud Platform and Microsoft Azure](https://sunilk.work/build-nodejs-mvp-using-free-mongodb-atlas-cluster-for-aws-google-cloud-platform-and-microsoft-azure/)
+[Build NodeJS MVP using free MongoDB Atlas cluster for AWS, Google Cloud Platform and Microsoft Azure](https://www.fullstackblog.in/mvp-using-free-mongodb-atlas-for-aws-gcp-and-azure-cloud/)

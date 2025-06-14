@@ -3,7 +3,7 @@
 
 Clone and run `npm install`
 
-### IMP: Never share or publish private.key to rest of the world,mine is masked 
+ - IMP: Never share or publish private.key to rest of the world, replace mine which is just a placeholder 
 
 
 

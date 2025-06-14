@@ -3,11 +3,11 @@
 
 Clone and run `npm install`
 
-### IMP: Never share or publish private.key to rest of the world
+### IMP: Never share or publish private.key to rest of the world,mine is masked 
 
-### Full Web Tutorial 
-[Secure REST API Using JWT](https://www.fullstackblog.in/tutorials/rest-api-tutorial/)
 
-### Full Video Tutorial
+
+### Watch Complete Video Tutorial
+
 https://youtu.be/bgPRDiJhWa8
 
